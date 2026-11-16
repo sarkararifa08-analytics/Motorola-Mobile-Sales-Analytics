@@ -8,7 +8,7 @@ The project transforms sales data into meaningful business insights through inte
 
 ## Dashboard Preview
 
-(POWER-BI%20DASHBOARD.png)
+POWER-BI%20DASHBOARD.png
 
 ## Key Performance Indicators (KPIs)
 
