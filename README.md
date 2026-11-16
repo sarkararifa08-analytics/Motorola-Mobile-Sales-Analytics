@@ -6,6 +6,9 @@ An interactive Power BI dashboard developed to analyze mobile phone sales perfor
 
 The project transforms sales data into meaningful business insights through interactive visualizations, KPI indicators, and dynamic filters.
 
+## Dashboard Preview
+
+![Motorola Mobile Sales Dashboard](Dashboard)
 
 ## Key Performance Indicators (KPIs)
 
