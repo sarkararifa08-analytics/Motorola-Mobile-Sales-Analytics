@@ -8,7 +8,7 @@ The project transforms sales data into meaningful business insights through inte
 
 ## Dashboard Preview
 
-![Motorola Mobile Sales Dashboard](Dashboard)
+(POWER-BI%20DASHBOARD.png)
 
 ## Key Performance Indicators (KPIs)
 
